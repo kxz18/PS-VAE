@@ -1,4 +1,4 @@
-# PS-VAE: Molecule Generation by Principal Subgraph Mining and Assembling {ignore=True}
+# PS-VAE: Molecule Generation by Principal Subgraph Mining and Assembling
 
 
 This repo contains the codes for our paper [Molecule Generation by Principal Subgraph Mining and Assembling](https://arxiv.org/abs/2106.15098) accepted by NeurIPS 2022.
@@ -14,9 +14,14 @@ if you use the code, please cite the following paper:
 }
 ```
 
-## Quick Links {ignore=True}
+## Quick Links
 
-[toc]
+- [Introduction](#introduction)
+- [Codes](#codes)
+    - [End-to-end Framework](#end-to-end-framework)
+    - [Principal Subgraph Extraction](#principal-subgraph-extraction)
+- [Examples](#examples)
+- [Contact](#contact)
 
 ## Introduction
 
